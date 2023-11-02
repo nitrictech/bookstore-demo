@@ -1,0 +1,4 @@
+name: bookshop-demo
+handlers:
+- functions/*.ts
+preview-features: []

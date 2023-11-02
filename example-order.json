@@ -1,0 +1,22 @@
+{
+  "customer": "John Doe",
+  "shippingAddress": {
+    "line1": "123 Fake St",
+    "city": "San Francisco",
+    "state": "CA",
+    "postalCode": "94105"
+  },
+  "orderNumber": "250-6880554-12345",
+  "items": [
+    {
+      "name": "Widget",
+      "quantity": 1,
+      "unitPrice": 100
+    },
+    {
+      "name": "Gadget",
+      "quantity": 2,
+      "unitPrice": 50
+    }
+  ]
+}
