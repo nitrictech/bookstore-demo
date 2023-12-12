@@ -1,6 +1,6 @@
 # Comparison of Terraform and Nitric
 
-This is the beginnings of a cloud application with two services bound by a pub/sub topic. It forms the basis for an e-commerce site, which serves as a comparison between Nitric and using more explicit IaC to deploy cloud infrastructure and reference it in code. This repository contains two applications, one written with Nitric and the other with HCL (Terraform). If you'd prefer a visual version of this guide you can watch the video guide [here](https://www.youtube.com/watch?v=_n8S0IYxmSM).
+This is the beginnings of a cloud application with two services bound by a pub/sub topic. It forms the basis for an e-commerce site, which serves as a comparison between Nitric and using more explicit IaC to deploy cloud infrastructure and reference it in code. This repository contains two applications, one written with Nitric and the other with HCL (Terraform). If you'd prefer a visual version of this guide you can watch the video guide [here](https://www.youtube-nocookie.com/embed/_n8S0IYxmSM).
 
 The application code will have be kept pretty simple as we are mainly focused on the infrastructure code differences. There will be two services, one for handling user submitted orders, and one for generating invoices for those orders. There will be a topic which binds these two services together and a bucket which will store the generated orders.
 

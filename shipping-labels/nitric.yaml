@@ -1,0 +1,4 @@
+name: invoice-generator
+handlers:
+- functions/*.ts
+preview-features: []
